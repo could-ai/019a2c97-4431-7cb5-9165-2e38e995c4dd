@@ -40,7 +40,7 @@ dependencies:
   qr_flutter: ^4.1.0     # For generating QR codes
   url_launcher: ^6.2.6   # For sharing links
   intl: ^0.19.0          # For localization (Arabic/English)
-  share_plus: ^9.0.0     # For sharing functionality
+  share_plus: ^7.2.2     # For sharing functionality
 
   # For web P2P support
   web: ^0.5.1
